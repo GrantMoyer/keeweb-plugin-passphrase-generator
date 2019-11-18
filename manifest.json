@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "passphrase-generator",
+  "description": "Generate secure pass phrases",
+  "author": {
+    "name": "Grant Moyer",
+    "email": "grantmoyer@gmail.com",
+    "url": "https://github.com/GrantMoyer/"
+  },
+  "resources": {
+    "js": "ySjkJ3ewkZkXjnRo2XWXdr5S91N8xXmdRa3eYazZeE38gk6noIzeoeoY/puTBQK6s63qZktk4KcMegCeVllJan9DRscLSWqPTMLGhvVAZeNptAwZijQvNd4Szh8Z0qBWBmidLFHpbUA283IZIc7ltxJ7wHdGBxBVPEkpWY6ymT3rntzoSCe4YSH+eUs+3UiAqBhpE3eT/mkKvuYbqOANjk0MD+tN2ElgF//7xHqBeIeQRDY/3GfezRzVSt9Y5HlfovUwfrdQsRUTMGnFij8FqswdOh+3T0KMqmqAJVzxvbdikATB/jojGS7gNTaDzo8rqcvIHTB6ypqTKwxhdiw7cw=="
+  },
+  "licence": "",
+  "url": "https://github.com/GrantMoyer/passphrase-generator",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzOR25PG6eC40WZQvhia4tln4VEfafbuu+w1PQ88E4cJM6NZqZBxtJjA+0wMPHU+y2WlWMBgiEKanQYjy8JgNJSzUX3LvwzabnSb5EhJwyELvkqTlHupNhZXcQfCNc9awQSJT1wBnookq7r/CAHCPDaAS6EzdDKDOxTNiKYSp+hubln7bJwxgNfkL4WbapV1ZyJqU0Vcjl8btOoZpAWc0KtWqt893sBkuy8orcf8taChvtVWecW4zsBGRLKUG0WRN0t8zDpe+NHzL2JXyA/e44gahqbLuwXucg6zYGzFGxvKQAdNlQ/+tcBQ7nNUo13RahKpGGJVrzzDwVDcdJL0H8wIDAQAB",
+  "license": "MIT"
+}
