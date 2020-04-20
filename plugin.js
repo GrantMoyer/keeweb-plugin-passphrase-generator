@@ -8,7 +8,7 @@ const { GeneratorView } = require('views/generator-view');
 const Kdbxweb = require('kdbxweb');
 const { PasswordGenerator } = require('util/generators/password-generator');
 
-generatorViewGenerate = GeneratorView.prototype.generate;
+let generatorViewGenerate = GeneratorView.prototype.generate;
 GeneratorView.prototype.generate = function() {
 	if (!this.gen || this.gen.title !== 'passphrase') return generatorViewGenerate.apply(this);
 	if (typeof this.gen.length !== 'number' || this.gen.length < 0) {
@@ -22,7 +22,7 @@ GeneratorView.prototype.generate = function() {
 	this.resultEl.toggleClass('gen__result--long-pass', isLong);
 }
 
-generatorViewCreatePresets = GeneratorView.prototype.createPresets;
+let generatorViewCreatePresets = GeneratorView.prototype.createPresets;
 GeneratorView.prototype.createPresets = function() {
 	generatorViewCreatePresets.apply(this);
 	this.presets.unshift({
