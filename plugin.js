@@ -42,7 +42,7 @@ module.exports.uninstall = function() {
 function get_random_index() {
 	let rand = 6**5 * 8; // greatest multiple of 6**5 below 2**16
 	while (rand >= 6**5 * 8) {
-		const randBytes = Kdbxweb.Random.getBytes(2);
+		const randBytes = Kdbxweb.CryptoEngine.random(2);
 		rand = (randBytes[1] << 8) + randBytes[0];
 	}
 	rand = rand % 6**5;
