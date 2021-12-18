@@ -11,8 +11,7 @@
   "resources": {
     "js": "jnLv7V53rWBtcTX/FrcWxHcSFmQo15ATUXvxPbsFnA4QLuMCdaG/finBbPBMaKVnZ+aUpccOM36RbSs333wq1Y2JqsIFaDoTl1s90EYVzb45CgDvggVirifHgm0weZjjwrsRLYTmYf7JgI9T8285RMbqC8tI1A3nRND39VhEXvKeJIQLlnpgQSaD9BDB3K7FNL04j4TCJzdsjgtY+pQKuDJe8xutHUVyU5EnRq3/0FGV2uipdqLdY37DLWMqRMWm24PV3CEl4eXeXFTvBWDSPo77hhz4dc7K1iRR+FFaweH8w01NBUjvWtMLQppRqGm/xGvl+Vqlt1/nZBye6zPucA=="
   },
-  "licence": "",
-  "url": "https://github.com/GrantMoyer/passphrase-generator",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzOR25PG6eC40WZQvhia4tln4VEfafbuu+w1PQ88E4cJM6NZqZBxtJjA+0wMPHU+y2WlWMBgiEKanQYjy8JgNJSzUX3LvwzabnSb5EhJwyELvkqTlHupNhZXcQfCNc9awQSJT1wBnookq7r/CAHCPDaAS6EzdDKDOxTNiKYSp+hubln7bJwxgNfkL4WbapV1ZyJqU0Vcjl8btOoZpAWc0KtWqt893sBkuy8orcf8taChvtVWecW4zsBGRLKUG0WRN0t8zDpe+NHzL2JXyA/e44gahqbLuwXucg6zYGzFGxvKQAdNlQ/+tcBQ7nNUo13RahKpGGJVrzzDwVDcdJL0H8wIDAQAB",
-  "license": "MIT"
+  "licence": "MIT",
+  "url": "https://github.com/GrantMoyer/keeweb-plugin-passphrase-generator",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzOR25PG6eC40WZQvhia4tln4VEfafbuu+w1PQ88E4cJM6NZqZBxtJjA+0wMPHU+y2WlWMBgiEKanQYjy8JgNJSzUX3LvwzabnSb5EhJwyELvkqTlHupNhZXcQfCNc9awQSJT1wBnookq7r/CAHCPDaAS6EzdDKDOxTNiKYSp+hubln7bJwxgNfkL4WbapV1ZyJqU0Vcjl8btOoZpAWc0KtWqt893sBkuy8orcf8taChvtVWecW4zsBGRLKUG0WRN0t8zDpe+NHzL2JXyA/e44gahqbLuwXucg6zYGzFGxvKQAdNlQ/+tcBQ7nNUo13RahKpGGJVrzzDwVDcdJL0H8wIDAQAB"
 }
